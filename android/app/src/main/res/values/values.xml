@@ -1,0 +1,9 @@
+<resources>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string> <!-- Bỏ qua nếu không sử dụng OAuth -->
+    <string name="firebase_database_url">YOUR_DATABASE_URL</string> <!-- Thay bằng URL thực tế nếu sử dụng -->
+    <string name="ga_trackingId">YOUR_GA_TRACKING_ID</string> <!-- Bỏ qua nếu không sử dụng -->
+    <string name="gcm_defaultSenderId">479598337100</string> <!-- Sử dụng project_number -->
+    <string name="google_api_key">AIzaSyD4E1_gBN0fRJ8UxFjcoTYsV55EumuP8gE</string> <!-- Sử dụng current_key -->
+    <string name="google_app_id">1:479598337100:android:YOUR_APP_ID</string> <!-- Thay YOUR_APP_ID bằng giá trị thực tế từ Firebase Console -->
+    <string name="project_id">pushnotification-9ea04</string> <!-- Sử dụng project_id -->
+</resources>

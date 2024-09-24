@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479598337100",
+    "project_id": "pushnotification-9ea04",
+    "storage_bucket": "pushnotification-9ea04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479598337100:android:1476c5b0428fc0d07328e9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4E1_gBN0fRJ8UxFjcoTYsV55EumuP8gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479598337100:android:23cec1e89234e3857328e9",
+        "android_client_info": {
+          "package_name": "com.example.oct_exercise_l1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4E1_gBN0fRJ8UxFjcoTYsV55EumuP8gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
